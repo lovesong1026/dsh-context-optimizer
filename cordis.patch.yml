@@ -1,0 +1,7 @@
+# dsh-context-optimizer bundle patch
+- insert:
+    - id: context-optimizer
+      name: 'dsh-context-optimizer'
+      config:
+        tools:
+          enabled: auto
